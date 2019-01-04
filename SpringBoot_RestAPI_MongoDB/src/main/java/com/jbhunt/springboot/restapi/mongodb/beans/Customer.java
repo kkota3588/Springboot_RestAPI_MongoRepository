@@ -1,4 +1,4 @@
-package com.jbjunt.springboot.restapi.mongodb.beans;
+package com.jbhunt.springboot.restapi.mongodb.beans;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

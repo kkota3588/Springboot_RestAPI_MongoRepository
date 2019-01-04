@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.jbhunt.springboot.restapi.mongodb.beans.Customer;
 import com.jbhunt.springboot.restapi.mongodb.repository.CustomerRepository;
-import com.jbjunt.springboot.restapi.mongodb.beans.Customer;
 
 @RestController
 @RequestMapping(value = "/api")

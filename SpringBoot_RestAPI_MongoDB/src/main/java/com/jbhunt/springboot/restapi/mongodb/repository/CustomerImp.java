@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Repository;
 
-import com.jbjunt.springboot.restapi.mongodb.beans.Customer;
+import com.jbhunt.springboot.restapi.mongodb.beans.Customer;
 
 @Repository
 public class CustomerImp implements CustomerDAO {

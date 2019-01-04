@@ -2,7 +2,7 @@ package com.jbhunt.springboot.restapi.mongodb.repository;
 
 import java.util.List;
 
-import com.jbjunt.springboot.restapi.mongodb.beans.Customer;
+import com.jbhunt.springboot.restapi.mongodb.beans.Customer;
 
 
 
