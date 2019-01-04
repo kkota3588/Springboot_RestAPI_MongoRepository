@@ -1,0 +1,42 @@
+insert:
+
+/api/insert
+
+{
+"customerId": "001",
+"customeName": "Krishna",
+"department":"Development",
+"salary":"10000"
+}
+
+
+
+.....................
+Retrieve:
+
+/api/retrive/{customerId}
+
+ex:
+
+/api/retrive/001
+
+
+
+............................
+
+GetAllCustomers:
+
+/api/getAllCustomers
+
+
+
+..............................
+
+Delete :
+
+/api/deleteCustomerId/{which id is you want to delete}
+
+ex:
+/api/deleteCustomerId/101
+
+...........................
